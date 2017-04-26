@@ -1,6 +1,11 @@
 # vue-custom-calendar
 
-> a custom calendar for vue
+> 基于Vue2 可自定义的大日历组件
+
+> 优化中，暂未push
+
+## DEMO
+* [基于此组件的旅游产品售价设置大日历](https://chaoyuleo.github.io/vue-custom-calendar/)
 
 ## Build Setup
 
